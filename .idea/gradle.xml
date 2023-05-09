@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Program Files/Gradle/gradle/gradle-8.0.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/applications/app-service" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/domain/model" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/domain/usecase" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/infrastructure/driven-adapters/async-event-bus" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/infrastructure/driven-adapters/mongo-repository" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/infrastructure/entry-points/async-event-handler" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/infrastructure/entry-points/reactive-web" />
+            <option value="$PROJECT_DIR$/ProductManager-CleanArquitectureBancolombia/infrastructure/helpers/serializer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/app-service/controlProduccion.app-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/app-service/controlProduccion.app-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/async-event-bus/controlProduccion.async-event-bus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/async-event-bus/controlProduccion.async-event-bus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/async-event-handler/controlProduccion.async-event-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/async-event-handler/controlProduccion.async-event-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/model/controlProduccion.model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/model/controlProduccion.model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/mongo-repository/controlProduccion.mongo-repository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/driven-adapters/mongo-repository/controlProduccion.mongo-repository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/reactive-web/controlProduccion.reactive-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/reactive-web/controlProduccion.reactive-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/reactive-web/controlProduccion.reactive-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/entry-points/reactive-web/controlProduccion.reactive-web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/helpers/serializer/controlProduccion.serializer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/helpers/serializer/controlProduccion.serializer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/usecase/controlProduccion.usecase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/usecase/controlProduccion.usecase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/usecase/controlProduccion.usecase.test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/usecase/controlProduccion.usecase.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/productManager.iml" filepath="$PROJECT_DIR$/.idea/productManager.iml" />
+    </modules>
+  </component>
+</project>

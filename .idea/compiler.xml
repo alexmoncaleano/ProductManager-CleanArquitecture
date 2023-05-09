@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="controlProduccion.async-event-bus.test" />
+        <module name="controlProduccion.model.test" />
+        <module name="controlProduccion.async-event-handler.test" />
+        <module name="controlProduccion.reactive-web.test" />
+        <module name="controlProduccion.async-event-handler.main" />
+        <module name="controlProduccion.reactive-web.main" />
+        <module name="controlProduccion.model.main" />
+        <module name="controlProduccion.mongo-repository.test" />
+        <module name="controlProduccion.async-event-bus.main" />
+        <module name="controlProduccion.app-service.main" />
+        <module name="controlProduccion.serializer.main" />
+        <module name="controlProduccion.usecase.test" />
+        <module name="controlProduccion.mongo-repository.main" />
+        <module name="controlProduccion.app-service.test" />
+        <module name="controlProduccion.serializer.test" />
+        <module name="controlProduccion.usecase.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
